@@ -21,6 +21,9 @@ Após o clone você terá a pasta do punchClock na pasta do projeto no seu diret
 > - cd ./PunchClock
 > 
 > - touch SEU_NOME.txt
+>
+> - cd ..        
+> Para voltar a pasta do projeto.
 
 #### Para registrar a entrada:
 > python punchClock/punchClock.py SEU_NOME in 
