@@ -17,11 +17,16 @@ Após o clone você terá a pasta do punchClock na pasta do projeto no seu diret
 #### Atualize o repositório
 > git pull
 
+#### Criando um arquivo para registro:
+> - cd ./PunchClock
+> 
+> - touch SEU_NOME.txt
+
 #### Para registrar a entrada:
-> python3 punchClock/punchClock.py SEU-NOME in 
+> python punchClock/punchClock.py SEU_NOME in 
 
 #### Para registrar a saída:
-> python3 punchClock/punchClock.py SEU-NOME out
+> python punchClock/punchClock.py SEU_NOME out
 
 > Descreva o que você fez dentro daquele ponto.
 
