@@ -23,7 +23,7 @@ current_time = now.strftime("%H:%M:%S")
 current_day = datetime.today().strftime('%Y-%m-%d')
 
 # Caminho para o arquivo de log onde os registros serão salvos
-log_file = os.path.join(myfolder, +name+'.txt')
+log_file = os.path.join(myfolder, f"punchClock\{name}.txt")
 
 # Verifica quantas linhas já existem no arquivo de log
 if os.path.exists(log_file):
@@ -39,10 +39,10 @@ next_number = tam_lines + 1
 if mode == 'out':
     task = input("Enter what you've done: ")
     text = current_time+" >> "+task+"\n"
-    msg = "Ck_"+next_number+" - Punch created for "+name+" at "+current_day+" - "+current_time
+    msg = f"Ck_{next_number} - Punch created for "+name+" at "+current_day+" - "+current_time
 else:
     text = current_day+" : "+current_time+" - "
-    msg = "Ck_"+next_number+" - In registred for "+name+" at "+current_day+" - "+current_time
+    msg = f"Ck_{next_number} - In registred for "+name+" at "+current_day+" - "+current_time
 
 f = open('./punchClock/'+name+'.txt','a+')
 f.write(text)
