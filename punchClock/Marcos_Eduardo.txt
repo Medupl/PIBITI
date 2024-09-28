@@ -1,6 +1,5 @@
 2024-09-26 : 16:16:35 - 19:15:03 >> Atualizações do repositório do projeto, inclusão e ajuste do PunchClock. Introdução de um curso de Git e GitHub para aprimorar o conhecimento.
 2024-09-26 : 21:25:50 - 22:54:39 >> Assisti 3 aulas do curso de Git e GitHub
 2024-09-27 : 09:14:25 - 
-11:39:45 >> Continua��o do estudo de Git e GitHub. Assuntos: commits, stage, git log, gitignore, git reset, clone, remote, fork e pull request.
+11:39:45 >> Continuação do estudo de Git e GitHub. Assuntos: commits, stage, git log, gitignore, git reset, clone, remote, fork e pull request.
 2024-09-27 : 20:22:07 - 22:53:43 >> Continuação do curso de Git e GitHub. Assuntos: Branch, Mesclando com merge e rebase e conflitos.
-22:57:54 >> Continuação do curso de Git e GitHub. Assuntos: Branch, Mesclando com merge e rebase e conflitos.
