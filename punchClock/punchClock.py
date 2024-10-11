@@ -39,6 +39,7 @@ next_number = tam_lines + 1
 if mode == 'out':
     task = input("Enter what you've done: ")
     text = current_time+" >> "+task+"\n"
+    next_number = next_number - 1
     msg = f"Ck_{next_number} - Punch created for "+name+" at "+current_day+" - "+current_time
 else:
     text = current_day+" : "+current_time+" - "
