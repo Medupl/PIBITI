@@ -6,4 +6,4 @@
 2024-10-04 : 20:31:59 - 23:40:05 >> Iniciei o relatÛrio sobre git e realizei alguns testes para aprendizagem.
 2024-10-07 : 18:33:08 - 20:35:54 >> Tentei realizar testes porem minha chave Git bugou e ainda n„o ajustei.
 2024-10-10 : 20:43:27 - 22:25:13 >> Escrevendo o relatÛrio sobre o curso de GitHub. 
-2024-10-12 : 11:16:42 - 
+2024-10-12 : 11:16:42 - 13:50:11 >> Finalizando o relat√≥rio sobre o curso de Git.
