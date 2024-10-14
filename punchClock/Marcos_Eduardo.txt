@@ -10,3 +10,4 @@
 2024-10-12 : 16:28:03 - 17:28:37 >> Finalizando o relatÛrio sobre o curso de Git, ultimos ajustes.
 2024-10-13 : 19:50:58 - 22:00:50 >> Iniciando estudos sobre a biblioteca NumPy
 2024-10-14 : 09:21:21 - 
+12:34:54 >> Assistindo v√≠deos sobre Numpy no youtube.
