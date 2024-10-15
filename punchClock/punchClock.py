@@ -23,7 +23,7 @@ current_time = now.strftime("%H:%M:%S")
 current_day = datetime.today().strftime('%Y-%m-%d')
 
 # Caminho para o arquivo de log onde os registros serão salvos
-log_file = os.path.join(myfolder, f"punchClock\{name}.txt")
+log_file = os.path.join(myfolder, f"punchClock//{name}.txt")
 
 # Verifica quantas linhas já existem no arquivo de log
 if os.path.exists(log_file):
