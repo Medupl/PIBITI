@@ -20,3 +20,4 @@
 2024-10-19 : 16:09:56 - 19:16:08 >> Finalizando o exemplo 2 em CudaPy
 2024-10-20 : 15:40:28 - 19:01:46 >> Finalizando o exemplo de CuPy com opticas
 2024-10-24 : 13:16:58 - 18:15:53 >> Finalizado os ajustes no relatório de Numpy
+2024-10-24 : 22:31:35 - 
