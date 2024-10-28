@@ -1,17 +1,17 @@
-2024-09-26 : 16:16:35 - 19:15:03 >> Atualiza��es do reposit�rio do projeto, inclus�o e ajuste do PunchClock. Introdu��o de um curso de Git e GitHub para aprimorar o conhecimento.
+2024-09-26 : 16:16:35 - 19:15:03 >> Atualizações do repositório do projeto, inclusão e ajuste do PunchClock. Introdução de um curso de Git e GitHub para aprimorar o conhecimento.
 2024-09-26 : 21:25:50 - 22:54:39 >> Assisti 3 aulas do curso de Git e GitHub
 2024-09-27 : 09:14:25 - 
-11:39:45 >> Continua��o do estudo de Git e GitHub. Assuntos: commits, stage, git log, gitignore, git reset, clone, remote, fork e pull request.
-2024-09-27 : 20:22:07 - 22:53:43 >> Continua��o do curso de Git e GitHub. Assuntos: Branch, Mesclando com merge e rebase e conflitos.
-2024-10-04 : 20:31:59 - 23:40:05 >> Iniciei o relat�rio sobre git e realizei alguns testes para aprendizagem.
-2024-10-07 : 18:33:08 - 20:35:54 >> Tentei realizar testes porem minha chave Git bugou e ainda n�o ajustei.
-2024-10-10 : 20:43:27 - 22:25:13 >> Escrevendo o relat�rio sobre o curso de GitHub. 
-2024-10-12 : 11:16:42 - 13:50:11 >> Finalizando o relat�rio sobre o curso de Git.
-2024-10-12 : 16:28:03 - 17:28:37 >> Finalizando o relat�rio sobre o curso de Git, ultimos ajustes.
+11:39:45 >> Continuação do estudo de Git e GitHub. Assuntos: commits, stage, git log, gitignore, git reset, clone, remote, fork e pull request.
+2024-09-27 : 20:22:07 - 22:53:43 >> Continuação do curso de Git e GitHub. Assuntos: Branch, Mesclando com merge e rebase e conflitos.
+2024-10-04 : 20:31:59 - 23:40:05 >> Iniciei o relatório sobre git e realizei alguns testes para aprendizagem.
+2024-10-07 : 18:33:08 - 20:35:54 >> Tentei realizar testes porem minha chave Git bugou e ainda não ajustei.
+2024-10-10 : 20:43:27 - 22:25:13 >> Escrevendo o relatório sobre o curso de GitHub. 
+2024-10-12 : 11:16:42 - 13:50:11 >> Finalizando o relatório sobre o curso de Git.
+2024-10-12 : 16:28:03 - 17:28:37 >> Finalizando o relatório sobre o curso de Git, ultimos ajustes.
 2024-10-13 : 19:50:58 - 22:00:50 >> Iniciando estudos sobre a biblioteca NumPy
-2024-10-14 : 09:21:21 - 12:34:54 >> Assistindo v�deos sobre Numpy no youtube.
+2024-10-14 : 09:21:21 - 12:34:54 >> Assistindo vídeos sobre Numpy no youtube.
 2024-10-14 : 17:32:32 - 20:44:02 >> Assisti alguns videos aulas e documentos sobre numpy
-2024-10-15 : 14:29:31 -  20:25:48 >> Finalizando estudo de introdução a Numpy, colocar no relatorio o que foi estudado, e ajustei o erro que tinha no punchclock.
+2024-10-15 : 14:29:31 -  20:25:48 >> Finalizando estudo de introduÃ§Ã£o a Numpy, colocar no relatorio o que foi estudado, e ajustei o erro que tinha no punchclock.
 2024-10-16 : 09:57:24 - 12:02:21 >> Estudando exemplo de processamento de dados, criados aleatoriamente, onde usamos dados estatisticos para mostrar os resultados.
 2024-10-16 : 15:23:34 - 18:32:55 >> Iniciando Exemplos com Numpy voltados a Opticas
 2024-10-18 : 12:37:23 - 13:26:26 >> Finalizando os exemplos de Opticas com Numpy
@@ -19,6 +19,7 @@
 2024-10-19 : 11:24:30 - 12:29:53 >> Revisando os exemplos estudados
 2024-10-19 : 16:09:56 - 19:16:08 >> Finalizando o exemplo 2 em CudaPy
 2024-10-20 : 15:40:28 - 19:01:46 >> Finalizando o exemplo de CuPy com opticas
-2024-10-24 : 13:16:58 - 18:15:53 >> Finalizado os ajustes no relatório de Numpy
+2024-10-24 : 13:16:58 - 18:15:53 >> Finalizado os ajustes no relatÃ³rio de Numpy
 2024-10-24 : 22:31:35 - 23:37:35 >> Ajustando o Numpy Opticas.
 2024-10-25 : 19:10:25 - 21:25:14 >> Fazendo uns ajustes nos relatorios.
+2024-10-28 : 14:56:15 - 
