@@ -11,7 +11,7 @@
 2024-10-13 : 19:50:58 - 22:00:50 >> Iniciando estudos sobre a biblioteca NumPy
 2024-10-14 : 09:21:21 - 12:34:54 >> Assistindo vídeos sobre Numpy no youtube.
 2024-10-14 : 17:32:32 - 20:44:02 >> Assisti alguns videos aulas e documentos sobre numpy
-2024-10-15 : 14:29:31 -  20:25:48 >> Finalizando estudo de introduÃ§Ã£o a Numpy, colocar no relatorio o que foi estudado, e ajustei o erro que tinha no punchclock.
+2024-10-15 : 14:29:31 - 20:25:48 >> Finalizando estudo de introdução a Numpy, colocar no relatorio o que foi estudado, e ajustei o erro que tinha no punchclock.
 2024-10-16 : 09:57:24 - 12:02:21 >> Estudando exemplo de processamento de dados, criados aleatoriamente, onde usamos dados estatisticos para mostrar os resultados.
 2024-10-16 : 15:23:34 - 18:32:55 >> Iniciando Exemplos com Numpy voltados a Opticas
 2024-10-18 : 12:37:23 - 13:26:26 >> Finalizando os exemplos de Opticas com Numpy
@@ -19,7 +19,8 @@
 2024-10-19 : 11:24:30 - 12:29:53 >> Revisando os exemplos estudados
 2024-10-19 : 16:09:56 - 19:16:08 >> Finalizando o exemplo 2 em CudaPy
 2024-10-20 : 15:40:28 - 19:01:46 >> Finalizando o exemplo de CuPy com opticas
-2024-10-24 : 13:16:58 - 18:15:53 >> Finalizado os ajustes no relatÃ³rio de Numpy
+2024-10-24 : 13:16:58 - 18:15:53 >> Finalizado os ajustes no relatório de Numpy
 2024-10-24 : 22:31:35 - 23:37:35 >> Ajustando o Numpy Opticas.
 2024-10-25 : 19:10:25 - 21:25:14 >> Fazendo uns ajustes nos relatorios.
 2024-10-28 : 14:56:15 - 17:58:19 >> Iniciando os estudos sobre Analises de sinais e revisando variaveis complexas.
+2024-10-29 : 10:01:36 - 
