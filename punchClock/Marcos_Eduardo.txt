@@ -26,4 +26,4 @@
 2024-10-29 : 10:01:36 - 12:17:49 >> Estudando Analises de sinais
 2024-10-29 : 17:29:48 - 20:35:42 >> Continuação dos estudos de Analises.
 2024-10-30 : 16:07:22 - 20:10:10 >> Estudando as funcoes impulso e degrau
-2024-10-31 : 09:28:25 - 
+2024-10-31 : 09:28:25 - 12:13:52 >> Iniciando sinais e convolução
