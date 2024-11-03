@@ -29,3 +29,4 @@
 2024-10-31 : 09:28:25 - 12:13:52 >> Iniciando sinais e convolução
 2024-10-31 : 16:47:46 - 19:55:49 >> Estudando transformada de Fourier
 2024-11-01 : 08:53:58 - 10:52:07 >> Estudo sobre processamento de sinais
+2024-11-03 : 15:30:51 - 
