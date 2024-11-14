@@ -37,6 +37,6 @@
 2024-11-08 : 16:06:02 - 20:25:24 >> Revisao das transformada em tempos discretos e contíinuos.
 2024-11-09 : 16:24:27 - 19:23:44 >> Revisao transformada z e inicio de transformada discreta
 2024-11-10 : 15:21:33 - 18:27:19 >> Estudando transformada direta de fourier
-2024-11-11 : 16:01:49 - 19:10:03 >> Finalizando a transformada discreta e revisando os códigos[D[D[D[D[D[D[D[D[D[D[D[Cos
+2024-11-11 : 16:01:49 - 19:10:03 >> Finalizando a transformada discreta e revisando os códigos feitos anteriormente.
 2024-11-12 : 14:05:27 - 19:18:06 >> Revisando os conceitos de codigos para plotar os sinais e fazendo novos codigos.
-2024-11-13 : 17:16:14 - 
+2024-11-13 : 17:16:14 - 21:27:43 >> Resolvendo alguns exemplos de transformada em python
