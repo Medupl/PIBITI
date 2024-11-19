@@ -40,3 +40,4 @@
 2024-11-11 : 16:01:49 - 19:10:03 >> Finalizando a transformada discreta e revisando os códigos feitos anteriormente.
 2024-11-12 : 14:05:27 - 19:18:06 >> Revisando os conceitos de codigos para plotar os sinais e fazendo novos codigos.
 2024-11-13 : 17:16:14 - 21:27:43 >> Resolvendo alguns exemplos de transformada em python
+2024-11-19 : 13:59:50 - 
