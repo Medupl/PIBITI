@@ -41,3 +41,4 @@
 2024-11-12 : 14:05:27 - 19:18:06 >> Revisando os conceitos de codigos para plotar os sinais e fazendo novos codigos.
 2024-11-13 : 17:16:14 - 21:27:43 >> Resolvendo alguns exemplos de transformada em python
 2024-11-19 : 13:59:50 - 16:17:32 >> Estudando amostragem e quantização de sinais.
+2024-11-21 : 07:15:37 - 
