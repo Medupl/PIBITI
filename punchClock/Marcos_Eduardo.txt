@@ -44,4 +44,4 @@
 2024-11-21 : 07:15:37 - 08:21:09 >> Finalizando quantizacao
 2024-11-22 : 10:52:56 - 12:10:30 >> Iniciando estudos de filtros adaptativos
 2024-11-23 : 08:11:41 - 11:24:17 >> Iniciando filtro de Wiener
-2024-11-23 : 15:25:48 - 
+2024-11-23 : 15:25:48 - 16:46:23 >> Finalizando filtro wiener e LMS
