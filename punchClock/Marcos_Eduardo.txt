@@ -43,4 +43,4 @@
 2024-11-19 : 13:59:50 - 16:17:32 >> Estudando amostragem e quantização de sinais.
 2024-11-21 : 07:15:37 - 08:21:09 >> Finalizando quantizacao
 2024-11-22 : 10:52:56 - 12:10:30 >> Iniciando estudos de filtros adaptativos
-2024-11-23 : 08:11:41 - 
+2024-11-23 : 08:11:41 - 11:24:17 >> Iniciando filtro de Wiener
