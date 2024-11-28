@@ -48,3 +48,4 @@
 2024-11-24 : 19:45:28 - 21:02:05 >> Finalisando o RLS
 2024-11-26 : 15:02:18 - 17:23:25 >> Ajustando exemplo de filtro Wiener
 2024-11-27 : 18:52:11 - 22:05:44 >> Ajuste de codigo de exemplo e inicio de aplicacoes.
+2024-11-28 : 16:39:27 - 
