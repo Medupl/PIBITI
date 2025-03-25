@@ -58,3 +58,4 @@
 2025-01-28 : 17:05:28 - 21:12:11 >> Ajustandos os codigos em python
 2025-03-24 : 13:05:53 - 15:16:10 >> Iniciando as anotações de comunicações opticas
 2025-03-25 : 14:09:02 - 17:20:01 >> Assitindo as aulas 4 e 5
+2025-03-25 : 20:35:21 - 
