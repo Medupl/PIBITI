@@ -56,4 +56,5 @@
 2025-01-26 : 18:59:56 - 22:08:09 >> Revisando filtros pelo livro.
 2025-01-27 : 16:08:00 - 19:14:36 >> Revisão do livro
 2025-01-28 : 17:05:28 - 21:12:11 >> Ajustandos os codigos em python
-2025-01-29 : 08:15:29 - 2025-03-24 : 13:05:53 - 13:06:10 >> Iniciando as anotações de comunicações opticas
+2025-03-24 : 13:05:53 - 15:16:10 >> Iniciando as anotações de comunicações opticas
+2025-03-25 : 14:09:02 - 
