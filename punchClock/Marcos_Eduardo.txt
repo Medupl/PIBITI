@@ -67,4 +67,4 @@
 2025-03-29 : 08:30:10 - 11:41:08 >> Aprendo a programar um gerador de sinal pelo modulador MZM
 2025-04-02 : 16:11:21 - 18:35:26 >> Ajustando o codigo da modulacao MZM
 2025-04-04 : 10:19:35 - 11:44:39 >> Iniciando o relatorio parcial do projeto.
-2025-04-04 : 18:46:24 - 
+2025-04-04 : 17:46:24 - 21:27:41 >> Finalizando o relatorio
