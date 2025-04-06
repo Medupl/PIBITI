@@ -68,4 +68,4 @@
 2025-04-02 : 16:11:21 - 18:35:26 >> Ajustando o codigo da modulacao MZM
 2025-04-04 : 10:19:35 - 11:44:39 >> Iniciando o relatorio parcial do projeto.
 2025-04-04 : 17:46:24 - 21:27:41 >> Finalizando o relatorio
-2025-04-06 : 15:53:53 - 
+2025-04-06 : 15:53:53 - 19:05:36 >> Ajustando os codigos
