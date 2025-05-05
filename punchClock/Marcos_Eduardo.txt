@@ -78,4 +78,4 @@
 2025-04-28 : 20:33:29 - 22:53:27 >> Repassando as anotacoes e os códigos da aula 9
 2025-04-29 : 13:13:01 - 17:11:52 >> Finalizado os codigos da aula 9 
 2025-04-30 : 15:03:04 - 20:07:38 >> Assisti as aulas 10 e 11, fiz anotacoes e inicio dos codigos
-2025-05-05 : 09:11:09 - 11:58:19 >> Começando os estudos sobre Equação de Sellmeier[D[D[D[D[D[D[D[D[D[D[D[D[D[Dcao[C[C[C[C[C[C[C[C[C[C[C[C Equacao de Sellmeier e funcao de Bessel
+2025-05-05 : 09:11:09 - 11:58:19 >> Começando os estudos sobre Equação de Sellmeier e Função de Bessel
