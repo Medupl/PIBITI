@@ -81,4 +81,5 @@
 2025-05-05 : 09:11:09 - 11:58:19 >> Começando os estudos sobre Equação de Sellmeier e Função de Bessel
 2025-05-06 : 13:58:27 - 17:06:23 >> Ajustando os conteudos e codigos da introducao de fibra optica
 2025-05-19 : 12:45:04 - 17:33:29 >> Iniciando estudo sobre fibra optica
-2025-05-20 : 15:07:17 - 15:09:12 >> Iniciando o estudo de dispersao
+2025-05-20 : 15:07:17 - 17:49:12 >> Iniciando o estudo de dispersao
+2025-05-21 : 16:02:45 - 
