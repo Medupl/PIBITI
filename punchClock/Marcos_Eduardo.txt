@@ -83,4 +83,4 @@
 2025-05-19 : 12:45:04 - 17:33:29 >> Iniciando estudo sobre fibra optica
 2025-05-20 : 15:07:17 - 17:49:12 >> Iniciando o estudo de dispersao
 2025-05-21 : 16:02:45 - 19:17:05 >> Continuando a dispersao
-2025-05-24 : 22:46:38 - 
+2025-05-24 : 14:56:38 - 19:42:48 >> Finalizando dispersao e perdas
