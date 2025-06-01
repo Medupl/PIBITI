@@ -85,4 +85,4 @@
 2025-05-21 : 16:02:45 - 19:17:05 >> Continuando a dispersao
 2025-05-24 : 14:56:38 - 19:42:48 >> Finalizando dispersao e perdas
 2025-05-31 : 15:40:43 - 18:31:57 >> Finalizando os estudos do que melhorar na apresentação
-2025-06-01 : 16:08:46 - 
+2025-06-01 : 16:08:46 - 19:02:01 >> Estudando como funciona o comportamento dos adaptadores e iniciando os estudos de codigos
