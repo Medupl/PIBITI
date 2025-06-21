@@ -91,3 +91,4 @@
 2025-06-19 : 08:47:38 - 11:58:42 >> Estudando a parte de ruidos EDFA e iniciando o codigo de simulação de 10G OOK
 2025-06-19 : 16:06:25 - 20:02:49 >> Finalizando o codigo da seção 7, e estudando sobre comunicacoes opticas coerentes.
 2025-06-20 : 14:24:59 - 17:29:43 >> Revisão das bibliotecas
+2025-06-21 : 14:03:55 - 
