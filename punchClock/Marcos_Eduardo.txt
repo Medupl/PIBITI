@@ -93,3 +93,4 @@
 2025-06-20 : 14:24:59 - 17:29:43 >> Revisão das bibliotecas
 2025-06-21 : 14:03:55 - 19:15:14 >> Revisão das aulas de comunicacoes
 2025-06-22 : 14:18:25 - 19:42:38 >> Fazendo uma simulacao de 10G 40km OOK 
+2025-06-22 : 20:08:03 - 
