@@ -99,3 +99,4 @@
 2025-06-26 : 21:47:10 - 00:13:40 >> Estudando os códigos iniciais de dispersao cromatica
 2025-06-27 : 14:57:30 - 17:48:10 >> Finalizando a base de dispersao com FDE e iniciando algoritmos adaptativos 
 2025-06-30 : 14:10:31 - 19:03:39 >> Estudando os codigos de MIMO 2x2
+2025-07-03 : 09:55:04 - 
