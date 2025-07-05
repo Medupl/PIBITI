@@ -101,4 +101,4 @@
 2025-06-30 : 14:10:31 - 19:03:39 >> Estudando os codigos de MIMO 2x2
 2025-07-03 : 09:55:04 - 12:06:28 >> Revisao e iniciando a implementacao do MIMO 2x2
 2025-07-03 : 14:26:27 - 16:05:17 >> Continuacao da implementacao do MIMO adaptativo
-2025-07-05 : 20:11:05 - 
+2025-07-05 : 20:11:05 - 20:58:40 >> Revisao da estruytura de codigo
