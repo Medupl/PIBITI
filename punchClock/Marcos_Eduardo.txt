@@ -105,4 +105,4 @@
 2025-07-11 : 17:02:49 - 20:18:32 >> estudando_implementacao_do_mimo_da_Opticcompy
 2025-07-13 : 11:59:30 - 18:12:07 >> Estudando a implementacao do MIMO 2x2 e MIMO NxN
 2025-07-14 : 13:03:29 - 18:25:52 >> Implementando alteracoes e estudando mudança para GPU
-2025-07-15 : 10:04:28 - 
+2025-07-15 : 10:04:28 - 14:13:48 >> Ajustando a mudanca para GPU e tirando duvidas
