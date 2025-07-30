@@ -109,3 +109,4 @@
 2025-07-25 : 12:05:01 - 17:13:33 >> 05 horas durante a semana revisando o código para encontrar a solucao
 2025-07-27 : 16:14:16 - 19:30:35 >> Ajuste do MIMO 2x2 BER e SNR
 2025-07-28 : 09:05:45 - 11:57:46 >> Tentativa de ajuste para Cupy
+2025-07-30 : 14:20:55 - 
