@@ -110,4 +110,4 @@
 2025-07-27 : 16:14:16 - 19:30:35 >> Ajuste do MIMO 2x2 BER e SNR
 2025-07-28 : 09:05:45 - 11:57:46 >> Tentativa de ajuste para Cupy
 2025-07-30 : 14:20:55 - 17:31:19 >> Estudando alguma forma de passar para CuPy
-2025-07-31 : 10:02:32 - 
+2025-07-31 : 10:02:32 - 11:54:07 >> Estudos e mais uma tentativa de passar para Cupy
