@@ -113,3 +113,4 @@
 2025-07-31 : 10:02:32 - 11:54:07 >> Estudos e mais uma tentativa de passar para Cupy
 2025-08-01 : 14:58:07 - 16:05:29 >> Testando um codigo somente com vetorização nos equalizadores
 2025-08-02 : 14:19:15 - 19:04:41 >> Fazendo uma revisão completa para retirar algumas duvidas
+2025-08-03 : 16:02:56 - 
