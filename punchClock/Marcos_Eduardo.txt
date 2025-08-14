@@ -118,4 +118,4 @@
 2025-08-05 : 15:01:46 - 18:14:16 >> Ajuste de codigo e tentativa de ajustar a vetorizacao 
 2025-08-06 : 12:11:36 - 18:02:13 >> Ajuste de vetorizacao em blocos dos algoritmos cma e rde, porem a equalizacao nao funcionou
 2025-08-09 : 13:24:30 - 17:41:03 >> Realizandos testes, ajuste dos equalizadores em Cupy com ajuste basico mudando somente de numpy para Cupy, permanecendo com o for basico e iniciando a documentacao dos resultados
-2025-08-13 : 20:50:23 - 
+2025-08-13 : 20:50:23 - 00:44:36 >> Ajuste dos equalizadores para Vetorizacao em numpy e Cupy e realizacao de testes
