@@ -121,4 +121,4 @@
 2025-08-13 : 20:50:23 - 00:44:36 >> Ajuste dos equalizadores para Vetorizacao em numpy e Cupy e realizacao de testes
 2025-08-21 : 09:58:48 - 12:04:08 >> Testando limites de simulacao do colab
 2025-08-22 : 15:54:47 - 18:14:07 >> Fazendo comparacao CPU - GPU
-2025-08-25 : 11:02:20 - 
+2025-08-25 : 11:02:20 - 12:04:24 >> Realizandos testes para comparar os resultados
