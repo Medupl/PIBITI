@@ -10,11 +10,11 @@ O projeto está organizado em notebooks Jupyter, cada um abordando uma etapa fun
 * **# 4: Introdução a Optica:** Início aos conteúdos de comunicações ópticas: 
     - [# 1.1 - Analise de Sinais e Sistemas](Capacitacao/Optic/Analise_de_sinais_e_sistemas.ipynb)
     - [# 1.2 - Filtros Adaptativos](Capacitacao/Optic/Filtros_adaptivos.ipynb)
-    * [# 1.3 - Processamento de digital de sinal](Capacitacao/Optic/Processamento_digital_de_sinal.ipynb)
+    - [# 1.3 - Processamento de digital de sinal](Capacitacao/Optic/Processamento_digital_de_sinal.ipynb)
 * **# 5: Comunicacoes Opticas:** Estudos de todos os processos da fibra óptica, desde a escolha do modulador até as comunicações coerentes.
     - [# 1.1 - Analise de Sinais e Sistemas](Capacitacao/Optic/Analise_de_sinais_e_sistemas.ipynb)
     - [# 1.2 - Filtros Adaptativos](Capacitacao/Optic/Filtros_adaptivos.ipynb)
-    * [# 1.3 - Processamento de digital de sinal](Capacitacao/Optic/Processamento_digital_de_sinal.ipynb)
+    - [# 1.3 - Processamento de digital de sinal](Capacitacao/Optic/Processamento_digital_de_sinal.ipynb)
 * **# 6: Equalizadores:** O coração do projeto. Implementação e teste de algoritmos de equalização adaptativa MIMO 2x2 para mitigar distorções do canal, como a Dispersão de Modo de Polarização (PMD).
 * Implementação de algoritmos de recuperação de fase (CPR), como o Blind Phase Search (BPS), para compensar o ruído de fase dos lasers e o deslocamento de frequência.
 * **Capítulo 7: Recuperação de Clock:** Estudo de técnicas de sincronismo de tempo.
