@@ -36,7 +36,7 @@ Os principais blocos de DSP foram organizados em cadernos Jupyter, baseados no l
 
 ---
 
-# Importante
+## Importante
 
 <p align="center">
 <img src="https://github.com/edsonportosilva/OptiCommPy/blob/main/figures/logo_OptiCommPy.jpg" width="500">
