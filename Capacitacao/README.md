@@ -1,5 +1,3 @@
----
-
 ## 🏗️ Estrutura do Projeto
 
 O projeto está organizado em notebooks Jupyter, cada um abordando uma etapa fundamental da cadeia de simulação de um sistema de comunicação óptica.
