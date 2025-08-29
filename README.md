@@ -17,17 +17,16 @@ O objetivo deste repositório é fornecer **implementações práticas e anotaç
 
 ---
 
-## 📑 Sumário do Material
+## 📑 Sumário do Material 📂
 Os principais blocos de DSP foram organizados em cadernos Jupyter, baseados no livro *Digital Coherent Optical Systems Architecture and Algorithms*:  
 
-- [Chapter 2: The Optical Transmitter](Capacitacao/Comunicacoes-Opticas/Codigos_de_C_O.ipynb)  
-- [Chapter 3: The Optical Channel](./Optic)  
-- [Chapter 4: The Receiver Front-End, Orthogonalization, and Deskew](./Numpy)  
-- [Chapter 5: Equalization](./Equalizadores-Adaptativos)  
-- [Chapter 6: Carrier Recovery](./CudaPy)  
-- [Chapter 7: Clock Recovery](./Comunicacoes-Opticas)  
-- [Chapter 8: Performance Evaluation](./Git-GitHub)  
+- [# 0: Capacitação](Capacitacao)  
+- [# 1: Numpy](Capacitacao/Numpy)  
+- [# 2: Cupy](Capacitacao/Cudapy)
+- [# 3: Git-GitHub](Capacitacao/Git-GitHub)
+- [# 4: Introdução a Optica](Capacitacao/Optic)  
+- [# 5: Comunicacoes Opticas](Capacitacao/Comunicacoes-Opticas)  
+- [# 6: Equalizadores-Adaptativos](Capacitacao/Equalizadores-Adaptativos)     
 
 ---
 
-## 📂 Estrutura do Repositório
