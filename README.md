@@ -24,7 +24,7 @@ O objetivo deste repositório é fornecer **implementações práticas e anotaç
 ---
 
 ## 📂 Sumário do Material 
-Cada notebook aborda a implementação e a análise de um bloco fundamental de um sistema óptico coerente, desde a geração do sinal QAM no transmissor até a avaliação final de desempenho com o cálculo do BER.
+Cada notebook aborda a implementação e a análise de um bloco fundamental de um sistema óptico coerente, desde a geração do sinal QAM no transmissor até a avaliação final de desempenho com o cálculo do BER. Os primeiros são uma introdução básica para iniciação na área de comunicações.
 
 - [# 0: Capacitação](Capacitacao)  
 - [# 1: Numpy](Capacitacao/Numpy)  
