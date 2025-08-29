@@ -20,7 +20,7 @@ O objetivo deste repositório é fornecer **implementações práticas e anotaç
 ## 📑 Sumário do Material
 Os principais blocos de DSP foram organizados em cadernos Jupyter, baseados no livro *Digital Coherent Optical Systems Architecture and Algorithms*:  
 
-- [Chapter 2: The Optical Transmitter]([./Comunicacoes-Opticas](https://github.com/Medupl/PIBITI/tree/main/Capacitacao/Comunicacoes-Opticas))  
+- [Chapter 2: The Optical Transmitter](Capacitacao/Comunicacoes-Opticas/Codigos_de_C_O.ipynb)  
 - [Chapter 3: The Optical Channel](./Optic)  
 - [Chapter 4: The Receiver Front-End, Orthogonalization, and Deskew](./Numpy)  
 - [Chapter 5: Equalization](./Equalizadores-Adaptativos)  
