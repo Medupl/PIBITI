@@ -7,6 +7,12 @@ Este projeto estuda e implementa modelos numéricos de **equalização adaptativ
 
 ---
 
+<p align="center">
+  
+<img src="https://github.com/edsonportosilva/OpticalCommunications/blob/cb0be56856b0b5f30779b4464b12055b600c1a56/jupyter%20notebooks/figuras/sistemaCoerente.png" width="800">
+
+</p>
+
 ## 📘 Introdução
 Sistemas de comunicações ópticas coerentes são fundamentais para atender a crescente demanda por **largura de banda** e **altas taxas de transmissão**. Entretanto, os sinais sofrem com distorções como **dispersão cromática (CD)** e **dispersão de modo de polarização (PMD)**.  
 
