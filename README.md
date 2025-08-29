@@ -3,7 +3,7 @@
 ## 🔎 Resumo
 A otimização computacional é essencial em sistemas de comunicações ópticas coerentes, que processam grandes volumes de dados em tempo real. Como simulações de receptores ópticos demandam alto custo computacional, o uso de **GPU** surge como solução eficiente.  
 
-Este projeto estuda e implementa modelos numéricos de **equalização adaptativa no domínio da frequência**, utilizando **Python** e a biblioteca **CuPy** para aceleração por GPU. São avaliados algoritmos como **Constant Modulus Algorithm (CMA)** e **Decision-Directed LMS (DD-LMS)**, comparando desempenho entre CPU e GPU.  
+Este projeto estuda e implementa modelos numéricos de **equalização adaptativa no domínio da frequência**, utilizando **Python** e a biblioteca **CuPy** para aceleração por GPU. São avaliados algoritmos como **Constant Modulus Algorithm (CMA)** **Radius-Directed Equalizer (RDE)**e **Decision-Directed LMS (DD-LMS)**, comparando desempenho entre CPU e GPU.  
 
 ---
 
@@ -23,7 +23,7 @@ O objetivo deste repositório é fornecer **implementações práticas e anotaç
 
 ---
 
-## 📑 Sumário do Material 📂
+## 📂 Sumário do Material 
 Os principais blocos de DSP foram organizados em cadernos Jupyter, baseados no livro *Digital Coherent Optical Systems Architecture and Algorithms*:  
 
 - [# 0: Capacitação](Capacitacao)  
@@ -35,4 +35,12 @@ Os principais blocos de DSP foram organizados em cadernos Jupyter, baseados no l
 - [# 6: Equalizadores-Adaptativos](Capacitacao/Equalizadores-Adaptativos)     
 
 ---
+
+# Importante
+
+<p align="center">
+<img src="https://github.com/edsonportosilva/OptiCommPy/blob/main/figures/logo_OptiCommPy.jpg" width="500">
+</p>
+
+Nesse material foi usando a [OptiCommPy](https://github.com/edsonportosilva/OptiCommPy) para implementar as simulações de todos os códigos, desde geração inicial de sinais até simulações de sistemas reias de fibras ópticas coerentes.
 
