@@ -22,7 +22,7 @@ Os principais blocos de DSP foram organizados em cadernos Jupyter, baseados no l
 
 - [# 0: Capacitação](Capacitacao)  
 - [# 1: Numpy](Capacitacao/Numpy)  
-- [# 2: Cupy](Capacitacao/Cudapy)
+- [# 2: Cupy](Capacitacao/CudaPy)
 - [# 3: Git-GitHub](Capacitacao/Git-GitHub)
 - [# 4: Introdução a Optica](Capacitacao/Optic)  
 - [# 5: Comunicacoes Opticas](Capacitacao/Comunicacoes-Opticas)  
