@@ -24,7 +24,7 @@ O objetivo deste repositório é fornecer **implementações práticas e anotaç
 ---
 
 ## 📂 Sumário do Material 
-Os principais blocos de DSP foram organizados em cadernos Jupyter, baseados no livro *Digital Coherent Optical Systems Architecture and Algorithms*:  
+Cada notebook aborda a implementação e a análise de um bloco fundamental de um sistema óptico coerente, desde a geração do sinal QAM no transmissor até a avaliação final de desempenho com o cálculo do BER.
 
 - [# 0: Capacitação](Capacitacao)  
 - [# 1: Numpy](Capacitacao/Numpy)  
