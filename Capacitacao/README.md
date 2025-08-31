@@ -10,7 +10,7 @@ O projeto está organizado em notebooks Jupyter, cada um abordando uma etapa fun
     - [# 4.2 - Filtros Adaptativos](./Optic/Filtros_adaptivos.ipynb)
     - [# 4.3 - Processamento de digital de sinal](./Optic/Processamento_digital_de_sinal.ipynb)
 * **# 5: Comunicacoes Opticas:** Estudos de todos os processos da fibra óptica, desde a escolha do modulador até as comunicações coerentes.
-    - [# 5.1 - Comunicações Opticas](./Comunicacoes-Opticas/Comunicações_Opticas.ipynb.ipynb)
+    - [# 5.1 - Comunicações Opticas](./Comunicacoes-Opticas/Comunicações_Opticas.ipynb)
     - [# 5.2 - Exemplos de CO](./Comunicacoes-Opticas/Codigos_de_C_O.ipynb)
     - [# 5.3 - Receptores Opticos e Ruído](./Comunicacoes-Opticas/Receptores_Opticos_e_Ruído.ipynb)
     - [# 5.4 - Fibra Optica](./Comunicacoes-Opticas/Fibra_Optica.ipynb)
