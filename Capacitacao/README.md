@@ -2,9 +2,9 @@
 
 O projeto está organizado em notebooks Jupyter, cada um abordando uma etapa fundamental da cadeia de simulação de um sistema de comunicação óptica.
 
-* **# 1: Numpy:** Introdução a biblioteca que é muito utilizada em diversas áreas de comunicações ópticas, simplificando vários cálculos.
-* **# 2: Cupy:** Biblioteca muito similar a Numpy, pórem voltada ao uso da **GPU**, importante para as comunicações coerentes.
-* **# 3: Git-GitHub:** Algumas dicas importantes para quem está iniciando na programação e precisa aprender a mexer com Git.
+* **# 1: Numpy:** Introdução à biblioteca muito utilizada em diversas áreas de comunicações ópticas, simplificando cálculos e protótipos.
+* **# 2: Cupy:** Biblioteca muito similar ao NumPy, porém voltada ao uso de **GPU**, essencial para acelerar simulações em comunicações coerentes.
+* **# 3: Git-GitHub:** Algumas dicas importantes para quem está iniciando na programação e precisa aprender versionamento de código com Git.
 * **# 4: Introdução a Optica:** Início aos conteúdos de comunicações ópticas: 
     - [# 4.1 - Analise de Sinais e Sistemas](./Optic/Analise_de_sinais_e_sistemas.ipynb)
     - [# 4.2 - Filtros Adaptativos](./Optic/Filtros_adaptivos.ipynb)
