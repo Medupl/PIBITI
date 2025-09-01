@@ -123,3 +123,4 @@
 2025-08-22 : 15:54:47 - 18:14:07 >> Fazendo comparacao CPU - GPU
 2025-08-25 : 11:02:20 - 12:04:24 >> Realizandos testes para comparar os resultados
 2025-08-25 : 14:03:55 - 16:18:06 >> Realizando testes no codigo comparador e foi visto que precisa de ajustes para otmizzar as simulações
+2025-09-01 : 13:04:54 - 
