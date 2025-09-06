@@ -125,4 +125,4 @@
 2025-08-25 : 14:03:55 - 16:18:06 >> Realizando testes no codigo comparador e foi visto que precisa de ajustes para otmizzar as simulações
 2025-09-01 : 13:04:54 - 17:24:28 >> Testando simulações Numpy, Cupy e comparações
 2025-09-03 : 08:20:52 - 11:47:11 >> Ajuste dos parametros para simulação em Numpy e Cupy
-2025-09-05 : 20:37:15 - 
+2025-09-05 : 20:37:15 - 21:16:49 >> Ajuste final dos parametros e registro de todas as simulacoes para as simulacoes separadas
