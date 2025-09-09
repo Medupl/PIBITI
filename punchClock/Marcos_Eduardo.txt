@@ -127,3 +127,4 @@
 2025-09-03 : 08:20:52 - 11:47:11 >> Ajuste dos parametros para simulação em Numpy e Cupy
 2025-09-05 : 20:37:15 - 21:16:49 >> Ajuste final dos parametros e registro de todas as simulacoes para as simulacoes separadas
 2025-09-08 : 09:02:30 - 12:14:48 >> Estudando formas da GPU ganhar mais eficiencia
+2025-09-09 : 20:20:40 - 
