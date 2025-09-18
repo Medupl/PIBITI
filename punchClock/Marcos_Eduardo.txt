@@ -131,3 +131,4 @@
 2025-09-10 : 18:52:37 - 18:52:59 >> Realizando a simulação em um pC 
 2025-09-15 : 18:17:11 - 19:51:56 >> Realizando uns ajustes nos codigos
 2025-09-17 : 08:34:06 - 10:58:15 >> Realizando uns ajustes e salvando a simulação em numpy para ter os resultados e comparações finais
+2025-09-17 : 22:08:46 - 
