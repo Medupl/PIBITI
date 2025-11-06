@@ -32,7 +32,7 @@ Cada notebook aborda a implementação e a análise de um bloco fundamental de u
 - [# 3: Git-GitHub](Capacitacao/Git-GitHub)
 - [# 4: Introdução a Optica](Capacitacao/Optic)  
 - [# 5: Comunicacoes Opticas](Capacitacao/Comunicacoes-Opticas)  
-- [# 6: Equalizadores-Adaptativos](Capacitacao/Equalizadores-Adaptativos)     
+- [# 6: Equalizadores-Adaptativos](Equalizadores-Adaptativos)     
 
 ---
 
