@@ -1,11 +1,59 @@
-## 🏗️ Estrutura do Projeto
+# 🧠 Equalizadores Adaptativos
 
-O projeto está organizado em notebooks Jupyter, cada um abordando uma etapa fundamental da cadeia de simulação de um sistema de comunicação óptica.
+Esta pasta contém notebooks dedicados ao estudo, implementação e análise de **algoritmos de equalização adaptativa** para sistemas de comunicação óptica coerente.  
+O foco está na **mitigação de distorções do canal** — como Dispersão de Modo de Polarização (PMD) e ruído de fase — utilizando modelos MIMO 2×2 e técnicas de aprendizado adaptativo.
 
-
-* **# Equalizadores:** O coração do projeto. Implementação e teste de algoritmos de equalização adaptativa MIMO 2x2 para mitigar distorções do canal, como a Dispersão de Modo de Polarização (PMD). Implementação de algoritmos de recuperação de fase (CPR), como o Blind Phase Search (BPS), para compensar o ruído de fase dos lasers e o deslocamento de frequência. Cálculo de métricas chave como Taxa de Erro de Bit (BER), Taxa de Erro de Símbolo (SER) e Relação Sinal-Ruído (SNR) para validar o sistema. Algoritmos: Constant Modulus Algorithm (CMA) ;  Radius-Directed Equalization (RDE) ;  Decision-Directed Least Mean Squares (DD-LMS)
-    - [# 6.1 - Equalização    ](./Equalização.ipynb)
-    - [# 6.2 - MIMO_2x2](./MIMO_2x2.ipynb)
-    - [# 6.3 - Revisao Implementacao Cupy](./Revisao_Implementacao_Cupy.ipynb)
-    - [# 6.4 - Desempenho CPU_GPU](./Desempenho_CPU_GPU.ipynb)
 ---
+
+## 🏗️ Estrutura dos Notebooks
+
+Cada notebook aborda uma etapa específica do pipeline de simulação e compensação digital.
+
+| Notebook | Descrição |
+|-----------|------------|
+| [`Equalização.ipynb`](./Equalização.ipynb) | Implementação dos algoritmos de equalização adaptativa, com recuperação de fase (CPR) e análise de constelações. |
+| [`MIMO_2x2.ipynb`](./MIMO_2x2.ipynb) | Estrutura completa do equalizador MIMO 2×2 para compensação de PMD e rotação de polarização. |
+| [`Revisao_Implementacao_Cupy.ipynb`](./Revisao_Implementacao_Cupy.ipynb) | Versão otimizada em GPU utilizando **CuPy**, explorando aceleração via CUDA. |
+| [`Desempenho_CPU_GPU.ipynb`](./Desempenho_CPU_GPU.ipynb) | Análise comparativa de desempenho entre CPU (NumPy) e GPU (CuPy), incluindo tempo de execução, convergência e métricas de BER/SNR. |
+
+---
+
+## 🧩 Algoritmos Implementados
+
+Os equalizadores utilizam técnicas clássicas de adaptação e compensação de canal óptico:
+
+- **CMA** – *Constant Modulus Algorithm*  
+  Reduz a variação de módulo para convergência cega inicial.
+- **RDE** – *Radius-Directed Equalization*  
+  Aperfeiçoa a convergência usando os raios da constelação QAM.
+- **DD-LMS** – *Decision-Directed Least Mean Squares*  
+  Fase final de refinamento baseada nas decisões de símbolo.
+- **CPR (BPS)** – *Blind Phase Search*  
+  Recupera a fase do portador e corrige o deslocamento de frequência residual.
+
+---
+
+## 📊 Métricas de Desempenho
+
+Os resultados são avaliados a partir de:
+- **Taxa de Erro de Símbolo (SER)**  
+- **Taxa de Erro de Bit (BER)**  
+- **Relação Sinal-Ruído (SNR)**  
+- **Tempo de Execução (CPU × GPU)**  
+
+Essas métricas permitem validar a eficiência dos algoritmos e quantificar o ganho da aceleração por GPU.
+
+---
+
+## 🧠 Objetivo
+
+Demonstrar, em ambiente simulado, a aplicabilidade dos equalizadores adaptativos MIMO 2×2 em sistemas coerentes modernos, avaliando o impacto da aceleração via GPU no tempo de processamento e na qualidade da equalização.
+
+---
+
+## 📚 Referência
+
+> Baseado no estudo de algoritmos de equalização digital apresentados em *Digital Coherent Optical Systems — Architecture and Algorithms* e nas bibliotecas do framework `optic` para modelagem de sistemas ópticos coerentes.
+
+---
+
