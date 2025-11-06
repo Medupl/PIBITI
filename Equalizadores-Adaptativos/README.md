@@ -11,8 +11,8 @@ Cada notebook aborda uma etapa específica do pipeline de simulação e compensa
 
 | Notebook | Descrição |
 |-----------|------------|
-| [`Equalização.ipynb`](./Equalização.ipynb) | Implementação dos algoritmos de equalização adaptativa, com recuperação de fase (CPR) e análise de constelações. |
-| [`MIMO_2x2.ipynb`](./MIMO_2x2.ipynb) | Estrutura completa do equalizador MIMO 2×2 para compensação de PMD e rotação de polarização. |
+| [# Equalização](./Equalização.ipynb) | Implementação dos algoritmos de equalização adaptativa, com recuperação de fase (CPR) e análise de constelações. |
+| [# MIMO_2x2](./MIMO_2x2.ipynb) | Estrutura completa do equalizador MIMO 2×2 para compensação de PMD e rotação de polarização. |
 | [`Revisao_Implementacao_Cupy.ipynb`](./Revisao_Implementacao_Cupy.ipynb) | Versão otimizada em GPU utilizando **CuPy**, explorando aceleração via CUDA. |
 | [`Desempenho_CPU_GPU.ipynb`](./Desempenho_CPU_GPU.ipynb) | Análise comparativa de desempenho entre CPU (NumPy) e GPU (CuPy), incluindo tempo de execução, convergência e métricas de BER/SNR. |
 
@@ -44,16 +44,3 @@ Os resultados são avaliados a partir de:
 Essas métricas permitem validar a eficiência dos algoritmos e quantificar o ganho da aceleração por GPU.
 
 ---
-
-## 🧠 Objetivo
-
-Demonstrar, em ambiente simulado, a aplicabilidade dos equalizadores adaptativos MIMO 2×2 em sistemas coerentes modernos, avaliando o impacto da aceleração via GPU no tempo de processamento e na qualidade da equalização.
-
----
-
-## 📚 Referência
-
-> Baseado no estudo de algoritmos de equalização digital apresentados em *Digital Coherent Optical Systems — Architecture and Algorithms* e nas bibliotecas do framework `optic` para modelagem de sistemas ópticos coerentes.
-
----
-
