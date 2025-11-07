@@ -4,8 +4,9 @@ import numpy.lib.stride_tricks
 import cupy.lib.stride_tricks
 from tqdm.notebook import tqdm
 
-from optic.dsp.core import pnorm
+from optic.dsp.core import pnorm, finddelay, symbolSync
 from optic.comm.modulation import grayMapping
+from optic.comm.metrics import fastBERcalc
 
 def create_windows(x, paramEq):
     """
@@ -374,3 +375,41 @@ def mimoAdaptEq(x, paramEq):
         raise ValueError("Algoritmo de equalização especificado incorretamente.")
 
     return y, e, w
+
+def resultados(y_CPR_LMS, paramTx, symbTx_, Nsymb):
+
+  discard = int(0.1 * y_CPR_LMS.shape[0])
+  d = pnorm(symbTx_)
+  ind = np.arange(discard, d.shape[0]-discard)
+  # Remove a 3ª dimensão
+  rx = y_CPR_LMS[ind,:]
+  tx = d[ind,:]
+
+  if rx.ndim == 3 and rx.shape[2] == 1:
+        rx = rx[:, :, 0]
+  if tx.ndim == 3 and tx.shape[2] == 1:
+        tx = tx[:, :, 0]
+
+  delay = finddelay(rx[:,1], tx[:,1])
+
+  # Alinhar com symbolSync
+  tx_sync = symbolSync(rx, tx, SpS=1, mode='amp')
+
+  # Truncar sinais para comprimento comum
+  min_len = min(rx.shape[0], tx_sync.shape[0])
+  rx = rx[:min_len]
+  tx = tx_sync[:min_len]
+
+  delay = finddelay(rx[:,0], tx[:,0])
+
+  rx = pnorm(rx)
+  tx = pnorm(tx)
+  BER, SER, SNR = fastBERcalc(rx, tx, paramTx.M, paramTx.constType)
+
+  print('##########   Resultados da simulação - %s Nsymb   ##########\n'%Nsymb)
+  print('      pol.X      pol.Y      ')
+  print(' SER: %.2e,  %.2e'%(SER[0], SER[1]))
+  print(' BER: %.2e,  %.2e'%(BER[0], BER[1]))
+  print(' SNR: %.2f dB,  %.2f dB\n'%(SNR[0], SNR[1]))
+
+  return tx, rx
