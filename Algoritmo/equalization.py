@@ -8,9 +8,6 @@ receptores ópticos coerentes. Ele oferece suporte à execução tanto
 em CPU (NumPy) quanto em GPU (CuPy), utilizando uma interface unificada
 através do parâmetro `paramEq.xp`.
 
-.. autosummary::
-   :toctree: generated/
-
    create_windows        -- Geração de janelas temporais para as polarizações X e Y.
    cmaUp                 -- Equalizador pelo Algoritmo de Módulo Constante (CMA).
    rdeUp                 -- Equalizador por Direcionamento de Raio (RDE).
