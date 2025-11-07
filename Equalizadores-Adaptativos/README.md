@@ -12,7 +12,7 @@ Cada notebook aborda uma etapa específica do pipeline de simulação e compensa
 | Notebook | Descrição |
 |-----------|------------|
 | [#1 - Equalização](./Equalização.ipynb) | Implementação dos algoritmos de equalização adaptativa, com recuperação de fase (CPR) e análise de constelações. |
-| [#2 - MIMO_2x2](./MIMO_2x2.ipynb) | Estrutura completa do equalizador MIMO 2×2 para compensação de PMD e rotação de polarização. |
+| [#2 - MIMO_2x2](./MIMO_2x2.ipynb)[MIMO_2x2_PC](./MIMO_2x2_PC.ipynb) | Estrutura completa do equalizador MIMO 2×2 para compensação de PMD e rotação de polarização. |
 | [`Revisao_Implementacao_Cupy.ipynb`](./Revisao_Implementacao_Cupy.ipynb) | Versão otimizada em GPU utilizando **CuPy**, explorando aceleração via CUDA. |
 | [`Desempenho_CPU_GPU.ipynb`](./Desempenho_CPU_GPU.ipynb) | Análise comparativa de desempenho entre CPU (NumPy) e GPU (CuPy), incluindo tempo de execução, convergência e métricas de BER/SNR. |
 
