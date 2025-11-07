@@ -4,7 +4,8 @@ import numpy.lib.stride_tricks
 import cupy.lib.stride_tricks
 from tqdm.notebook import tqdm
 
-from optic.dsp.core import pnorm, grayMapping
+from optic.dsp.core import pnorm
+from optic.comm.modulation import grayMapping
 
 def create_windows(x, paramEq):
     """
