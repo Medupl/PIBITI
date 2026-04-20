@@ -1,0 +1,25 @@
+# Processamento Numérico e Sinais
+#python>=3.10
+numpy>=1.24.4
+scipy>=1.13.0
+matplotlib>=3.7.0
+sympy>=1.12.0
+pandas>=2.0.3
+
+# Aceleração em GPU
+#cupy-cuda12x >= 13.1.0  # Altere conforme sua versão do CUDA (ex: cuda11x)
+
+# Simulação Óptica (Base do seu PIBITI)
+#opticommpy
+numba>=0.54.1
+tqdm>=4.64.1
+simple-pid>=1.0.1
+mpl-scatter-density>=0.7.0
+sphinx-rtd-theme>=1.2.2
+nbsphinx>=0.9.3
+nbsphinx-link>=1.3.0
+prettytable>=3.16.0
+
+# Suporte para Notebooks (Resolve o erro do ipykernel)
+ipykernel
+notebook
